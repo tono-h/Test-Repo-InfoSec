@@ -1,9 +1,6 @@
 # Incident Response Run-book Template
-
 ### Incident Type
-
 Credential Leakage/Compromise
-
 ### Summary
 
 These run-books are created to be used as templates only. They should be customized by administrators working with AWS to suit their particular needs, risks, available tools and work processes. These guides are not official AWS documentation and are provided as-is to customers using AWS products and who are looking to improve their incident response capability.
